@@ -11,6 +11,7 @@ This is a curated list of publications and preprints making use of the flavio pa
 {: class="table"}
 Authors | Title | arXiv | Code
 --------|-------|-------|------------
+K. Fuyuto, H.-L. Li, J.-H. Yu | Implications of hidden gauged U(1) model for B anomalies | [1712.06736](https://arxiv.org/abs/1712.06736) 
 J. Albrecht, F. Bernlochner, M. Kenzie, S. Reichert, D. Straub, A. Tully | Future prospects for exploring present day anomalies in flavour physics measurements with Belle II and LHCb | [1709.10308](https://arxiv.org/abs/1709.10308)
 T. Blake, U. Egede, P. Owen, G. Pomery, K. A. Petridis | An empirical model of the long-distance contributions to $B\to K^\ast\mu^+\mu^-$ transitions | [1709.03921](https://arxiv.org/abs/1709.03921)
 A. D. Medina, M. A. Schmidt |  Enlarging Regions of the MSSM Parameter Space for Large $\tan\beta$ via SUSY Decays of the Heavy Higgs Bosons | [1706.04994](https://arxiv.org/abs/1706.04994)
